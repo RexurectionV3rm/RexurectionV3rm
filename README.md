@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://i.imgur.com/OyfPmyb.gif">
+<img align="center" alt="Coding" width="600" src="https://i.imgur.com/OyfPmyb.gif">
 
 <h1 align="center">Ciao 👋, I'm Rexurection</h1>
 <h2 align="center">A friendly Translator & Backend Pythonist Developer!</h2>
