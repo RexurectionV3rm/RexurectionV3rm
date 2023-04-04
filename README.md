@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/OyfPmyb.gif)]
+[![MasterHead](https://i.imgur.com/OyfPmyb.gif)](https://google.com)
 
 <h1 align="center">Ciao 👋, I'm Rexurection</h1>
 <h2 align="center">A friendly Translator & Backend Pythonist Developer!</h2>
