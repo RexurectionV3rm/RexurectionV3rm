@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **[DISCORD ID] <@766994150577930241>**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
