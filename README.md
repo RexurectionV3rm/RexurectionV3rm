@@ -1,5 +1,7 @@
 <h1 align="center">Ciao 👋, I'm Rexurection</h1>
-<h3 align="center">A friendly Translator & Backend Pythonist Developer!</h3>
+
+<h2 align="center">A friendly Translator & Backend Pythonist Developer!</h2>
+
 
 - 🔭 I’m currently working on [Lupus In Fabula](https://github.com/RexurectionV3rm/LupusInFabula/)
 
