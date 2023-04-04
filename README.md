@@ -1,5 +1,6 @@
-<h1 align="center">Ciao 👋, I'm Rexurection</h1>
+[![MasterHead](https://i.imgur.com/OyfPmyb.gif)]
 
+<h1 align="center">Ciao 👋, I'm Rexurection</h1>
 <h2 align="center">A friendly Translator & Backend Pythonist Developer!</h2>
 
 
