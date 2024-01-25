@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lupus In Fabula](https://github.com/RexurectionV3rm/LupusInFabula/)
 
-- 🇮🇹 I’m an active Translator @ [Badlion | ESL](https://badlion.net)
+- 🇮🇹 I’m an active Senior Staff/Translator @ [Badlion | ESL](https://badlion.net)
 
 - 📝 I regularly Proof Read articles on [Badlion | ESL](https://www.badlion.net/wiki/home)
 
